@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Ankylix</title>
+    <item>
+      <title>Version 1.1</title>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <pubDate>Wed, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://jordicruzado.github.io/ankylix-updates/Ankylix.zip"
+                 sparkle:edSignature="UOzHJUPqFrDXGTo6H33epXh2s4nNDJUIi3RAgIqHeGX7KSr6QEagV3X4yIhfdGxfv4dUtcZEJJQS8Z+9+rAODw=="
+                 length="2326821"
+                 type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
