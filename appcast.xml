@@ -4,12 +4,13 @@
     <title>Ankylix</title>
     <item>
       <title>Version 1.1</title>
-      <sparkle:version>2</sparkle:version>
+      <sparkle:version>3</sparkle:version>
       <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-      <pubDate>Wed, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <pubDate>Tue, 30 Jun 2026 14:29:53 +0000</pubDate>
       <enclosure url="https://jordicruzado.github.io/ankylix-updates/Ankylix.zip"
-                 sparkle:edSignature="UOzHJUPqFrDXGTo6H33epXh2s4nNDJUIi3RAgIqHeGX7KSr6QEagV3X4yIhfdGxfv4dUtcZEJJQS8Z+9+rAODw=="
-                 length="2326821"
+                 sparkle:edSignature="cQYUeBEUObNu2F5ePsKcNCgOjZFmxQDxt90JbecdmYjZpiOU4llud3OJ5ByfvKswKr0aqc+WLI9ADvZYbO4TAw=="
+                 length="2644832"
                  type="application/octet-stream" />
     </item>
   </channel>
