@@ -3,14 +3,22 @@
   <channel>
     <title>Ankylix</title>
     <item>
-      <title>Version 1.1</title>
-      <sparkle:version>3</sparkle:version>
-      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <title>Version 1.2</title>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <pubDate>Tue, 30 Jun 2026 20:20:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 05:58:23 +0000</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li><b>One-click activation.</b> After buying, the purchase page now has an <b>Activate Ankylix</b> button that opens the app and activates it for you — no more copying a Transaction ID out of your receipt.</li>
+          <li><b>Fixed:</b> activation links opened from the website were ignored while the permission setup prompts were on screen.</li>
+          <li><b>Fixed:</b> the purchase button showed the price in dollars; Ankylix is €19.</li>
+          <li><b>The 14-day trial now ends properly.</b> Previously the app kept working after the trial expired; now it stops until you activate a license.</li>
+        </ul>
+      ]]></description>
       <enclosure url="https://jordicruzado.github.io/ankylix-updates/Ankylix.zip"
-                 sparkle:edSignature="cbqADKgamQe7Gk4QmZ6YGWmdMCU4dCbZbN9Qqic4/UCr9c8jhc+Xg+Zk/QLvMy/bduUc+H3H+59FMkmWCpWUCw=="
-                 length="2670696"
+                 sparkle:edSignature="xOW0qy2n/gRVNnavvmAoLxCqNaRBhsa5+CUxU4+w63JjgdeURXaFMldIUP1njoFkGraP1a+g5OwIb/40w1PpCQ=="
+                 length="2685736"
                  type="application/octet-stream" />
     </item>
   </channel>
