@@ -16,7 +16,7 @@
           <li><b>The 14-day trial now ends properly.</b> Previously the app kept working after the trial expired; now it stops until you activate a license.</li>
         </ul>
       ]]></description>
-      <enclosure url="https://jordicruzado.github.io/ankylix-updates/Ankylix.zip"
+      <enclosure url="https://github.com/JordiCruzado/ankylix-updates/releases/download/v1.2/Ankylix.zip"
                  sparkle:edSignature="xOW0qy2n/gRVNnavvmAoLxCqNaRBhsa5+CUxU4+w63JjgdeURXaFMldIUP1njoFkGraP1a+g5OwIb/40w1PpCQ=="
                  length="2685736"
                  type="application/octet-stream" />
