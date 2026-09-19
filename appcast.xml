@@ -3,6 +3,30 @@
   <channel>
     <title>Ankylix</title>
     <item>
+      <title>Version 1.4</title>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <pubDate>Sat, 19 Sep 2026 10:21:50 GMT</pubDate>
+      <description><![CDATA[
+        <ul>
+          <li><b>Apply a whole layout with one key.</b> In layout mode, press a digit and every zone fills — the focused window takes the first zone, your most recent windows the rest. Press Return to apply the layout on screen. A letter still places the focused window, and swaps it with whatever is in that zone.</li>
+          <li><b>The last layout you used is remembered</b> across launches.</li>
+          <li><b>Stable hints in the window switcher.</b> Each app's window gets the app's initial (S = Safari, X = Xcode), so after a few jumps you stop reading. The minimized-windows panel key moved from M to <code>,</code> so M can be a hint.</li>
+          <li><b>New default shortcuts: ⌃⌥L (layouts), ⌃⌥W (switcher), ⌃⌥M (move/resize).</b> The old ⌘⇧O and ⌘⇧F were Open Quickly / Find in Files in every major editor. If you never changed the defaults, Ankylix moves you over and tells you.</li>
+          <li><b>Ankylix now warns when a shortcut clashes</b> with a menu command in the app you're using, or is already taken by another app. Preferences → Shortcuts shows clashes while you choose.</li>
+          <li><b>One permission instead of two.</b> Input Monitoring is no longer requested — Accessibility covers it — and the forced relaunch after setup is gone.</li>
+          <li>A welcome step after setup shows the shortcuts to try.</li>
+          <li>Layout mode now ends on a click or an app switch instead of swallowing keys until Esc.</li>
+          <li><b>Fixed:</b> the Permissions panel could stay red after a permission was granted.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/JordiCruzado/ankylix-updates/releases/download/v1.4/Ankylix.zip"
+                 sparkle:edSignature="n2zUUE+cJupeyOCPHCBz/O0YLAQ/6JznsVaZ2PWEOFm86hdB27JUgH/CmMPQqklsUrtR9wMhxphzcAJP3prACg=="
+                 length="2794434"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.2</title>
       <sparkle:version>4</sparkle:version>
       <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
