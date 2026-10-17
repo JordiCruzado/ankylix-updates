@@ -3,6 +3,33 @@
   <channel>
     <title>Ankylix</title>
     <item>
+      <title>Version 2.0</title>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <pubDate>Sat, 17 Oct 2026 10:19:06 GMT</pubDate>
+      <description><![CDATA[
+        <p>Ankylix 2.0 is a free update for everyone who bought 1.x.</p>
+        <ul>
+          <li><b>Peek.</b> In the window switcher, press ⇧ and a window's letter (or hold the letter) to bring it to the front for a quick look — framed in orange, ready to scroll or copy from. Tab moves to the next window; Esc puts everything back where it was. ⌃⌥P peeks at the last window again.</li>
+          <li><b>App groups.</b> ⌃⌥⇧G saves the apps on screen, and where their windows are, under a name. ⌃⌥G and a letter bring a group back: closed apps launch, every window returns to its place and the apps outside the group are hidden.</li>
+          <li><b>Open here.</b> In layout mode, ⇧ and a zone's letter places the window and makes that zone where its app opens from now on. In move &amp; resize, P does the same with the window's exact frame. Manage both in the new Preferences → Apps.</li>
+          <li><b>Key hints in every mode.</b> Pause in a mode and a panel lists its keys, placed where it covers nothing. Choose when and where it appears in Preferences → General.</li>
+          <li><b>Never forget a trigger.</b> Hold ⌃⌥ for a moment to see every trigger; the menu bar menu lists them too. Ankylix also suggests the shortcut when you move or switch windows with the mouse.</li>
+          <li><b>Digits now switch layouts without moving anything.</b> Press Return to apply the layout on screen.</li>
+          <li>Press the layouts trigger in move &amp; resize to go straight to layouts.</li>
+          <li>The switcher opens the minimized-windows list straight away when no window is on screen.</li>
+          <li>Shortcuts keep working while Preferences is open.</li>
+          <li>Ankylix asks for Input Monitoring only when macOS needs it, offers to reset a stale entry, and shows its status in Preferences.</li>
+          <li><b>Fixed:</b> move &amp; resize keys could stop working after switching windows, and the window picked in the switcher could fall behind.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/JordiCruzado/ankylix-updates/releases/download/v2.0/Ankylix.zip"
+                 sparkle:edSignature="lxW2M+UMET9FhfZi614CNM9/fWh0GpOsH7dxliAKMzEa7COWNiDjErxS5oSaOWyIv01M1CTVhlzxutcKyhvLDQ=="
+                 length="3221629"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.4</title>
       <sparkle:version>6</sparkle:version>
       <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
