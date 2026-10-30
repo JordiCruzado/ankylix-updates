@@ -3,6 +3,29 @@
   <channel>
     <title>Ankylix</title>
     <item>
+      <title>Version 2.1</title>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <pubDate>Fri, 30 Oct 2026 17:20:06 GMT</pubDate>
+      <description><![CDATA[
+        <p>Ankylix 2.1 brings your layouts to the mouse. A free update for everyone with a license.</p>
+        <ul>
+          <li><b>Drag to tile.</b> Start dragging a window and your layout appears; the zone under the pointer lights up, and letting go snaps the window into it. Drop it on another window and the two swap places. The layout follows the pointer to another display.</li>
+          <li><b>While dragging:</b> right click or scroll to change layout (or press its digit — the panel lists them), press Return to fill the other zones too, and Space to make that zone where the app opens from now on. Hold ⇧ to move the window freely, or Esc to hide the layout for that drag.</li>
+          <li><b>Your choice.</b> Preferences → General → Mouse turns dragging off, or shows the layout only while you hold a key — ⇧, ⌃, ⌥ or ⌘.</li>
+          <li><b>Click in the switcher.</b> With the window switcher open, click a window to jump to it.</li>
+          <li><b>Modes on mouse buttons.</b> Give the middle, back or forward button any mode — layouts, the switcher, peek, move &amp; resize or app groups. Buttons left on Nothing keep working as before.</li>
+          <li>Zone letters are easier to read: dark on yellow.</li>
+          <li><b>Fixed:</b> the window switcher's fill showed solid violet instead of light cyan.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/JordiCruzado/ankylix-updates/releases/download/v2.1/Ankylix.zip"
+                 sparkle:edSignature="kjPwgdzYqR29ejBMjAaOHpWLFsoMVZ8wScvsY60Q8Hb794x2T8kisHOn2E67CPlYCydesAzsS8y44QsxFzH6Bg=="
+                 length="3280815"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.0</title>
       <sparkle:version>7</sparkle:version>
       <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
