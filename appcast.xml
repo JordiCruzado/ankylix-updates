@@ -3,6 +3,27 @@
   <channel>
     <title>Ankylix</title>
     <item>
+      <title>Version 2.2</title>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+      <pubDate>Wed, 25 Nov 2026 18:37:45 GMT</pubDate>
+      <description><![CDATA[
+        <p>Ankylix 2.2 can be run from anywhere. A free update for everyone with a license.</p>
+        <ul>
+          <li><b>Automation.</b> Every layout, app group and mode has an <code>ankylix://</code> link. Open it from Raycast, Shortcuts, a Stream Deck or a script. The <a href="https://ankylix.com/guide.html#automation">Guide</a> has them all.</li>
+          <li><b>Alfred.</b> Find any layout, app group or open window by name, minimized windows too, and put it where you want. Install the workflow from Preferences → General; Alfred needs its Powerpack.</li>
+          <li><b>Put an app in its place.</b> Name an app and where it goes — left third, top right quarter — and it opens there, or always opens there.</li>
+          <li><b>Window titles stay private.</b> Other apps can ask for the list of open windows only if you allow them in macOS.</li>
+          <li><b>Fixed:</b> a link that opened Ankylix, such as the one that activates it, did nothing else.</li>
+        </ul>
+      ]]></description>
+      <enclosure url="https://github.com/JordiCruzado/ankylix-updates/releases/download/v2.2/Ankylix.zip"
+                 sparkle:edSignature="fBVMcOsgAZuDx/WMcYSDj2lOJ4tWp/jpGxnle1h8vrt0xLuSDjPRxrJSmvvy3+tWaXWN5I1fak5bKTeRTSK+Ag=="
+                 length="3509083"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 2.1</title>
       <sparkle:version>8</sparkle:version>
       <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
